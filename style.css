@@ -3338,10 +3338,6 @@ figure.wp-block-table.is-style-stripes {
 }
 
 .wp-block-latest-posts.has-dates:not(.is-grid) li {
-	margin-top: 1.5rem;
-}
-
-.wp-block-latest-posts.has-dates:not(.is-grid) li:first-child {
 	margin-top: 0;
 }
 
